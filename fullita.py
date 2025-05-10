@@ -12,8 +12,8 @@ import time
 
 # Constants
 
-LINKMFP = "https://tuonome.hf.space"
-PASSWORD = "tuapassword"
+LINKMFP = "https://marioxoxo-a-caso.hf.space/"
+PASSWORD = "cacca"
 
 PROXY = f"{LINKMFP}/proxy/hls/manifest.m3u8?api_password={PASSWORD}&d="
 
